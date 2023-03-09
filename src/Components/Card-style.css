@@ -1,0 +1,8 @@
+.card {
+    border-style:outset;
+    border-color: black;
+
+    padding: 1rem;
+    text-align: center;
+    font: 13px/120% Tahoma,Arial,Helvetica,Verdana,sans-serif;
+}
